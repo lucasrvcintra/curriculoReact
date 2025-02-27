@@ -1,8 +1,45 @@
-# React + Vite
+# Currículo - React com Vite e Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de currículo desenvolvido com React, utilizando Vite para um ambiente de desenvolvimento rápido e Tailwind CSS para estilização.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Como Rodar o Projeto
+
+### 1. Clonar o Repositório
+
+```sh
+git clone https://github.com/lucasrvcintra/curriculoReact.git
+```
+
+### 2. Acessar a Pasta do Projeto
+
+```sh
+cd curriculoReact
+```
+
+### 3. Instalar as Dependências
+
+Utilizando npm:
+
+```sh
+npm install
+```
+
+### 4. Rodar o Projeto
+
+```sh
+npm run dev
+```
+
+### 5. Acessar no Navegador
+
+O projeto estará rodando em:
+
+```
+http://localhost:5173/
+```
